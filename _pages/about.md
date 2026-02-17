@@ -42,7 +42,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 # 📝 Selected Publications {#selectedpublications}
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Visual Grounding</div>
+    <!-- <div class="badge pulse-accent">Visual Grounding</div> -->
     <img src='images/nips2024.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
