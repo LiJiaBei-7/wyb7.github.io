@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fifth-year Ph.D. candidate at the Institute of Artificial Intelligence and Robotics ([IAIR](https://iair.xjtu.edu.cn/index.htm), Xi'an Jiaotong University (XJTU), where I pursue my doctoral studies under the supervision of Prof.[Le Wang](https://gr.xjtu.edu.cn/web/lewang). I also collaborate closely with Prof.[Sanping Zhou](https://gr.xjtu.edu.cn/web/spzhou), Prof.[Gang Hua](https://www.ganghua.org/) and Prof.[Wei Tang](https://www.cs.uic.edu/~tangw/).
-
-Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Institute of Technology. I am currently a visiting Ph.D. student with the Multimedia and Human Understanding Group (MHUG) at the University of Trento, under the supervision of [Nicu Sebe](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en).
+I am a third-year Ph.D. candidate at the Institute of Artificial Intelligence and Robotics ([IAIR](https://iair.xjtu.edu.cn/index.htm), Xi'an Jiaotong University (XJTU), where I pursue my doctoral studies under the supervision of Prof.[Le Wang](https://gr.xjtu.edu.cn/web/lewang). I also collaborate closely with Prof.[Sanping Zhou](https://gr.xjtu.edu.cn/web/spzhou), Prof.[Gang Hua](https://www.ganghua.org/) and Prof.[Wei Tang](https://www.cs.uic.edu/~tangw/).
+ 
+I am currently a visiting Ph.D. student with the Multimedia and Human Understanding Group (MHUG) at the University of Trento, under the supervision of [Nicu Sebe](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en).
 
 
 
@@ -27,24 +27,16 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 # 🔥 News {#news}
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026.
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025.
-- *2025.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025.
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by TMM.
+- *2025.03*: &nbsp;🎉🎉 Two paper is accepted by CVPR 2025.
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025.
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by NIPS 2025.
-- *2024.05*: &nbsp;🎉🎉 Two paper is accepted by TMM.
-- *2024.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2024.
-- *2023.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2023.
-
-# 📖 Educations {#educations}
-- *2025.09 - now*, Visiting Ph.D. student, Artificial Intelligence, University of Trento.
-- *2021.09 - now*, Ph.D. student, Control Science and Engineering, Xi'an Jiaotong University. 
-- *2017.09 - 2021.06*, B.S., Robotics Engineering, Harbin Institute of Technology
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2024.
+- *2024.03*: &nbsp;🎉🎉 One paper is accepted by TIP.
+- *2023.10*: &nbsp;🎉🎉 One paper is accepted by AAAI 2024.
+- *2022.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2022.
+- *2022.06*: &nbsp;🎉🎉 One paper is accepted by TCSVT.
 
 
-# 💻 Internships {#internships}
-- *2025.03 - now*, Ant Group, Multimodal Interaction Team  |  Research Intern in Multimodal Large Models.
-- *2024.05 - 2025.02*, Ant Group, Digital Human Algorithm Team  |  Research Intern in Digital Human Algorithms.
-- *2022.05 - 2024.03*, University of Illinois Chicago, Prof. Wei Tang’s Research Group ｜ Research Intern in Computer Vision.
 
 
 # 📝 Selected Publications {#selectedpublications}
@@ -229,6 +221,13 @@ Previously, I received my B.Eng. degree in Robotics Engineering from Harbin Inst
 - Spatial Matters: Position-Guided 3D Referring Expression Segmentation (Submitted to CVPR 2026)  
   Wang Y, Tian Z, Wang L, **Qin Z**, Zhou S.
 
+# 📖 Educations {#educations}
+- *2025.09 - now*, Visiting Ph.D. student, Artificial Intelligence, University of Trento.
+- *2023.09 - now*, Ph.D. student, Control Science and Engineering, Xi'an Jiaotong University. 
+
+
+# 💻 Internships {#internships}
+- *2024.05 - 2025.07*, Ant Group, Bailing Large Model Team | Research Intern
 
 
 # 🎖 Honors and Scholarships {#honors-and-scholarships}
