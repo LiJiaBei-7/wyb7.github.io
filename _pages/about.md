@@ -269,9 +269,14 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 
 
 # 🎖 Honors and Scholarships {#honors-and-scholarships}
-- **National Scholarship (PhD)**, 2025  
-- **Yidong (PhD)**, 2024
-- **National Scholarship (Master)**, 2022  
+- **National Scholarship (PhD)**, 2025
+- **National Scholarship**, 2022 
+- **Yidong**, 2024
+- **Bronze Award of China International College Student Innovation Competition**, 2023
+- **Outstanding Graduates in Zhejiang Province**, 2023
+- **Gold Award of the 18th "Challenge Cup" Industrial and Commercial Bank of China College Students Extracurricular Academic Science and Technology Works Competition in Zhejiang Provinc**, 2023
+- **The ninth "Internet +" Silver Award in Zhejiang Province**, 2023
+
 
 # Services {#services}
 Reviewer for CVPR, ICCV, ICML, ECCV, ICLR, NIPS, ACM MM, AAAI, TIP, TMM, PR, etc.
