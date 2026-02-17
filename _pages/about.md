@@ -220,6 +220,9 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 - RefDetector: A Simple yet Effective Matching-based Method for Referring Expression Comprehension, AAAI 2025      
   **Y Wang**, Z Tian, Z Qin, S Zhou, L Wang
 
+- From mapping to composing: A two-stage framework for zero-shot composed image retrieval, arxiv 2025    
+  **Y Wang**, Z Tian, Q Guo, Z Qin, S Zhou, M Yang, L Wang
+
 - Moment Quantization for Video Temporal Grounding, ICCV 2025      
   X Sun, L Wang, S Zhou, L Shi, K Xia, M Liu, **Y Wang**, G Hua
 
@@ -237,10 +240,8 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 - Diversifying query: Region-guided transformer for temporal sentence grounding, AAAI 2025    
   X Sun, L Shi, L Wang, S Zhou, K Xia, **Y Wang**, G Hua  
 
-
 - Cross-lingual cross-modal retrieval with noise-robust fine-tuning, IEEE TKDE 2024   
   R Cai, J Dong, T Liang, Y Liang, **Y Wang**, X Yang, X Wang, M Wang  
-
 
 - Versatile multimodal controls for expressive talking human animation, ACM MM 2025    
   Z Qin, R Zheng, **Y Wang**, T Li, Z Zhu, S Zhou, M Yang, L Wang  
@@ -250,9 +251,6 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 
 - Progressive localization networks for language-based moment localization, ACM TOMM 2023  
   Q Zheng, J Dong, X Qu, X Yang, **Y Wang**, P Zhou, B Liu, X Wang  
-
-- From mapping to composing: A two-stage framework for zero-shot composed image retrieval, submitted to TCSVT    
-  **Y Wang**, Z Tian, Q Guo, Z Qin, S Zhou, M Yang, L Wang
 
 - Embracing Aleatoric Uncertainty: Generating Diverse 3D Human Motion, submitted to TCSVT    
   Z Qin, **Y Wang**, M Yang, S Zhou, M Yang, L Wang, 2025
