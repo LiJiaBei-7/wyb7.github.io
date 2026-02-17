@@ -116,6 +116,44 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
   </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <!-- <div class="badge pulse-accent">Visual Grounding</div> -->
+    <img src='images/mm2024.png' alt="SAMPO" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Multimodal llm enhanced cross-lingual cross-modal retrieval</h3>
+    <div class="authors">
+      <strong>Y Wang</strong>,  L Wang, Q Zhou, Z Wang, H Li, G Hua, W Tang
+    </div>
+    <div class="venue">ACM MM2024</div>
+    <div class="links">
+      <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
+      <a href="https://arxiv.org/abs/2409.19961" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <!-- <a href="https://www.youtube.com/shorts/CFmHsWB_Sus" class="btn-accent"><i class="fab fa-github"></i> Demo</a> -->
+    </div>
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <!-- <div class="badge pulse-accent">Visual Grounding</div> -->
+    <img src='images/mm2022.png' alt="SAMPO" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Cross-lingual cross-modal retrieval with noise-robust learning</h3>
+    <div class="authors">
+      <strong>Y Wang</strong>,  J Dong, T Liang, M Zhang, R Cai, X Wang
+    </div>
+    <div class="venue">ACM MM2022</div>
+    <div class="links">
+      <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
+      <a href="https://arxiv.org/abs/2208.12526" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <!-- <a href="https://www.youtube.com/shorts/CFmHsWB_Sus" class="btn-accent"><i class="fab fa-github"></i> Demo</a> -->
+    </div>
+  </div>
+</div>
+
 
 # Publications  {#publications}
 - Reading-strategy inspired visual representation learning for text-to-video retrieval, TCSVT 2022  
@@ -197,10 +235,6 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 # 🎖 Honors and Scholarships {#honors-and-scholarships}
 - **National Scholarship (PhD)**, 2025  
 - **Yidong PhD)**, 2024  
-
-
-# 💬 Invited Talks {#invited-talks}
-- *2024.07*, Invited to present the paper at the “Summer of the Institute of Human–Computer Interaction, XJTU”
 
 # Services {#services}
 Reviewer for CVPR, ICCV, ICML, ECCV, ICLR, NIPS, ACM MM, AAAI, TIP, TMM, PR, etc.
