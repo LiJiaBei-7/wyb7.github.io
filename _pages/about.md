@@ -166,7 +166,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
   <div class='paper-box-text'>
     <h3>Reading-strategy inspired visual representation learning for text-to-video retrieval</h3>
     <div class="authors">
-      J Dong, <strong>Y Wang</strong>, X Chen, X Qu, X Li, Y He, X Wang
+      J Dong#, <strong>Y Wang</strong>#, X Chen, X Qu, X Li, Y He, X Wang
     </div>
     <div class="venue">TCSVT2022</div>
     <div class="links">
