@@ -103,14 +103,14 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
     <img src='images/aaai24.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
-    <h3>CL2CM: Improving Cross-Lingual Cross-Modal Retrieval via Cross-Lingual Knowledge Transfer</h3>
+    <h3>Dual-view curricular optimal transport for cross-lingual cross-modal retrieval</h3>
     <div class="authors">
-      <strong>Y Wang</strong>, F Wang, J Dong, H Luo
+      <strong>Y Wang</strong>, S Wang, H Luo, J Dong, F Wang, M Han, X Wang, M Wang
     </div>
-    <div class="venue">AAAI25</div>
+    <div class="venue">TIP2024</div>
     <div class="links">
       <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
-      <a href="https://arxiv.org/abs/2312.08984" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://arxiv.org/abs/2309.05451" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       <!-- <a href="https://www.youtube.com/shorts/CFmHsWB_Sus" class="btn-accent"><i class="fab fa-github"></i> Demo</a> -->
     </div>
   </div>
