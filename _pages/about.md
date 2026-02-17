@@ -53,8 +53,8 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
     <div class="venue">NIPS2024</div>
     <div class="links">
       <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
-      <a href="https://arxiv.org/abs/2412.19155" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://github.com/LiJiaBei-7/RefFormer" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+      <a href="https://arxiv.org/abs/2412.19155"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/LiJiaBei-7/RefFormer"><i class="fab fa-github"></i> Code</a>
     </div>
   </div>
 </div>
@@ -72,7 +72,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
     <div class="venue">AAAI2025</div>
     <div class="links">
       <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
-      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32866/35021" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32866/35021"><i class="fas fa-file-alt"></i> Paper</a>
       <!-- <a href="https://www.youtube.com/shorts/CFmHsWB_Sus" class="btn-accent"><i class="fab fa-github"></i> Demo</a> -->
     </div>
   </div>
@@ -91,8 +91,8 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
     <div class="venue">ACM MM2022</div>
     <div class="links">
       <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
-      <a href="https://arxiv.org/abs/2208.12526" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://github.com/LiJiaBei-7/nrccr" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+      <a href="https://arxiv.org/abs/2208.12526"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/LiJiaBei-7/nrccr"><i class="fab fa-github"></i> Code</a>
       <!-- <a href="https://www.youtube.com/shorts/CFmHsWB_Sus" class="btn-accent"><i class="fab fa-github"></i> Demo</a> -->
     </div>
   </div>
@@ -110,8 +110,8 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
     <div class="venue">ACM MM2024</div>
     <div class="links">
       <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
-      <a href="https://arxiv.org/abs/2409.19961" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://github.com/LiJiaBei-7/leccr" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+      <a href="https://arxiv.org/abs/2409.19961"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/LiJiaBei-7/leccr"><i class="fab fa-github"></i> Code</a>
       <!-- <a href="https://www.youtube.com/shorts/CFmHsWB_Sus" class="btn-accent"><i class="fab fa-github"></i> Demo</a> -->
     </div>
   </div>
@@ -130,7 +130,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
     <div class="venue">AAAI24</div>
     <div class="links">
       <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
-      <a href="https://arxiv.org/abs/2312.08984" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://arxiv.org/abs/2312.08984"><i class="fas fa-file-alt"></i> Paper</a>
       <!-- <a href="https://www.youtube.com/shorts/CFmHsWB_Sus" class="btn-accent"><i class="fab fa-github"></i> Demo</a> -->
     </div>
   </div>
@@ -149,7 +149,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
     <div class="venue">TIP2024</div>
     <div class="links">
       <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
-      <a href="https://arxiv.org/abs/2309.05451" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://arxiv.org/abs/2309.05451"><i class="fas fa-file-alt"></i> Paper</a>
       <!-- <a href="https://www.youtube.com/shorts/CFmHsWB_Sus" class="btn-accent"><i class="fab fa-github"></i> Demo</a> -->
     </div>
   </div>
@@ -171,8 +171,8 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
     <div class="venue">TCSVT2022</div>
     <div class="links">
       <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
-      <a href="https://arxiv.org/abs/2201.09168" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://github.com/LiJiaBei-7/rivrl" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+      <a href="https://arxiv.org/abs/2201.09168"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/LiJiaBei-7/rivrl"><i class="fab fa-github"></i> Code</a>
       <!-- <a href="https://www.youtube.com/shorts/CFmHsWB_Sus" class="btn-accent"><i class="fab fa-github"></i> Demo</a> -->
     </div>
   </div>
@@ -191,8 +191,8 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
     <div class="venue">Arxiv2025</div>
     <div class="links">
       <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
-      <a href="https://arxiv.org/abs/2504.17990" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://github.com/LiJiaBei-7/TSCIR" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+      <a href="https://arxiv.org/abs/2504.17990"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/LiJiaBei-7/TSCIR"><i class="fab fa-github"></i> Code</a>
       <!-- <a href="https://www.youtube.com/shorts/CFmHsWB_Sus" class="btn-accent"><i class="fab fa-github"></i> Demo</a> -->
     </div>
   </div>
@@ -270,7 +270,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 
 
 # 💻 Internships {#internships}
-- *2024.05 - 2025.07*, Ant Group, Bailing Large Model Team | Research Intern
+- *2024.05 - 2025.07*, Ant Group, Bailing Large Model Team， Research Intern
 
 
 # 🎖 Honors and Scholarships {#honors-and-scholarships}
