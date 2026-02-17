@@ -61,8 +61,8 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Visual Grounding</div>
-    <img src='images/aaai25.png' alt="SAMPO" width="100%">
+    <!-- <div class="badge pulse-accent">Visual Grounding</div> -->
+    <img src='images/aaai2025.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>RefDetector: A Simple yet Effective Matching-based Method for Referring Expression Comprehension</h3>
@@ -80,15 +80,15 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Visual Grounding</div>
-    <img src='images/aaai24.png' alt="SAMPO" width="100%">
+    <!-- <div class="badge pulse-accent">Visual Grounding</div> -->
+    <img src='images/aaai2024.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>CL2CM: Improving Cross-Lingual Cross-Modal Retrieval via Cross-Lingual Knowledge Transfer</h3>
     <div class="authors">
       <strong>Y Wang</strong>, F Wang, J Dong, H Luo
     </div>
-    <div class="venue">AAAI25</div>
+    <div class="venue">AAAI24</div>
     <div class="links">
       <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
       <a href="https://arxiv.org/abs/2312.08984" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
@@ -99,8 +99,8 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Visual Grounding</div>
-    <img src='images/aaai24.png' alt="SAMPO" width="100%">
+    <!-- <div class="badge pulse-accent">Visual Grounding</div> -->
+    <img src='images/tip2024.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>Dual-view curricular optimal transport for cross-lingual cross-modal retrieval</h3>
