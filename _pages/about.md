@@ -176,11 +176,6 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 </div>
 
 # Publications  {#publications}
-- MotionTrack: Learning Robust Short-term and Long-term Motions for Multi-Object Tracking (CVPR 2023)  
-  **Qin Z**, Zhou S, Wang L, Duan J, Hua G, Tang W.
-
-- Towards Generalizable Multi-Object Tracking (CVPR 2024)  
-  **Qin Z**, Wang L, Zhou S, Fu P, Hua G, Tang W.
 
 - Referencing Where to Focus: Improving Visual Grounding with Referential Query (NeurIPS 2024)  
   Wang Y, Tian Z, Guo Q, **Qin Z**, Zhou S, Yang M, Wang L.
