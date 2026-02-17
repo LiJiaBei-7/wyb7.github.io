@@ -30,7 +30,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 - *2025.03*: &nbsp;🎉🎉 Two paper is accepted by CVPR 2025.
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025.
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2024.
-- *2024.09*: &nbsp;🎉🎉 One paper is accepted by NIPS 2025.
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted by NIPS 2024.
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by TIP.
 - *2023.10*: &nbsp;🎉🎉 One paper is accepted by AAAI 2024.
 - *2022.10*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2022.
@@ -42,110 +42,13 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 # 📝 Selected Publications {#selectedpublications}
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Milti-model LLM</div>
-    <img src='images/humansense.png' alt="SAMPO" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>HumanSense: From Multimodal Perception to Empathetic Context-Aware Responses through Reasoning MLLMs</h3>
-    <div class="authors">
-      <strong>Zheng Qin</strong>, Ruobing Zheng, Yabing Wang, Tianqi Li, Yi Yuan, Jingdong Chen, Le Wang
-    </div>
-    <div class="venue">AAAI26</div>
-    <div class="links">
-      <a href="https://digital-avatar.github.io/ai/HumanSense/" class="btn-accent">Project</a>
-      <a href="https://arxiv.org/abs/2508.10576" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://github.com/antgroup/HumanSense" class="btn-accent"><i class="fab fa-github"></i> Code</a>
-      <a href="https://huggingface.co/antgroup/HumanSense_Omni_Reasoning" class="btn-accent"> Huggingface</a>
-    </div>
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">Video Generation</div>
-    <img src='images/verse.png' alt="SAMPO" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>Versatile Multimodal Controls for Expressive Talking Human Animation</h3>
-    <div class="authors">
-      <strong>Zheng Qin</strong>, Ruobing Zheng, Yabing Wang, Tianqi Li, Zixin Zhu, Sanping Zhou, Ming Yang, Le Wang
-    </div>
-    <div class="venue">ACM MM25</div>
-    <div class="links">
-      <a href="https://digital-avatar.github.io/ai/VersaAnimator/" class="btn-accent">Project</a>
-      <a href="https://arxiv.org/abs/2503.08714" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <!-- <a href="https://github.com/antgroup/HumanSense" class="btn-accent"><i class="fab fa-github"></i> Code</a> -->
-    </div>
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">Multi-object Tracking</div>
-    <img src='images/generaltrack.png' alt="SAMPO" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>Towards generalizable multi-object tracking</h3>
-    <div class="authors">
-      <strong>Zheng Qin</strong>, Le Wang, Sanping Zhou, Panpan Fu, Gang Hua, Wei Tang
-    </div>
-    <div class="venue">CVPR24</div>
-    <div class="links">
-      <!-- <a href="https://digital-avatar.github.io/ai/VersaAnimator/" class="btn-accent">Project</a> -->
-      <a href="https://arxiv.org/abs/2406.00429" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://github.com/qinzheng2000/GeneralTrack" class="btn-accent"><i class="fab fa-github"></i> Code</a>
-    </div>
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">Multi-object Tracking</div>
-    <img src='images/motiontrack.png' alt="SAMPO" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>Motiontrack: Learning robust short-term and long-term motions for multi-object tracking</h3>
-    <div class="authors">
-      <strong>Zheng Qin</strong>, Sanping Zhou, Le Wang, Jinghai Duan, Gang Hua, Wei Tang
-    </div>
-    <div class="venue">CVPR23</div>
-    <div class="links">
-      <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a>
-      <a href="https://arxiv.org/abs/2303.10404" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://www.youtube.com/shorts/CFmHsWB_Sus" class="btn-accent"><i class="fab fa-github"></i> Demo</a>
-    </div>
-  </div>
-</div>
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
     <div class="badge pulse-accent">Visual Grounding</div>
-    <img src='images/aaai25.png' alt="SAMPO" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>RefDetector: A Simple yet Effective Matching-based Method for Referring Expression Comprehension</h3>
-    <div class="authors">
-      Yabing Wang, Zhuotao Tian, <strong>Zheng Qin</strong>, Sanping Zhou, Le Wang
-    </div>
-    <div class="venue">AAAI25</div>
-    <div class="links">
-      <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
-      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32866/35021" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <!-- <a href="https://www.youtube.com/shorts/CFmHsWB_Sus" class="btn-accent"><i class="fab fa-github"></i> Demo</a> -->
-    </div>
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">Visual Grounding</div>
-    <img src='images/nips24.png' alt="SAMPO" width="100%">
+    <img src='images/nips2024.png' alt="SAMPO" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>Referencing Where to Focus: Improving Visual Grounding with Referential Query</h3>
     <div class="authors">
-      Yabing Wang, Zhuotao Tian, Qingpei Guo, <strong>Zheng Qin</strong>, Sanping Zhou, Ming Yang, Le Wang
+      <strong>Yabing Wang<strong>, Zhuotao Tian, Qingpei Guo, Zheng Qin, Sanping Zhou, Ming Yang, Le Wang
     </div>
     <div class="venue">NIPS24</div>
     <div class="links">
@@ -156,24 +59,8 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
   </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">Embodied AI</div>
-    <img src='images/cvpr25.png' alt="SAMPO" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>Towards precise embodied dialogue localization via causality guided diffusion</h3>
-    <div class="authors">
-      Haoyu Wang, Le Wang, Sanping Zhou, Jingyi Tian, <strong>Zheng Qin</strong>, Yabing Wang, Gang Hua, Wei Tang
-    </div>
-    <div class="venue">CVPR25</div>
-    <div class="links">
-      <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
-      <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Towards_Precise_Embodied_Dialogue_Localization_via_Causality_Guided_Diffusion_CVPR_2025_paper.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <!-- <a href="https://github.com/LiJiaBei-7/RefFormer" class="btn-accent"><i class="fab fa-github"></i> Code</a> -->
-    </div>
-  </div>
-</div>
+
+
 
 # Publications  {#publications}
 
