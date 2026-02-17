@@ -130,6 +130,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
     <div class="links">
       <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
       <a href="https://arxiv.org/abs/2409.19961" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/LiJiaBei-7/leccr" class="btn-accent"><i class="fab fa-github"></i> Code</a>
       <!-- <a href="https://www.youtube.com/shorts/CFmHsWB_Sus" class="btn-accent"><i class="fab fa-github"></i> Demo</a> -->
     </div>
   </div>
@@ -149,6 +150,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
     <div class="links">
       <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
       <a href="https://arxiv.org/abs/2208.12526" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/LiJiaBei-7/nrccr" class="btn-accent"><i class="fab fa-github"></i> Code</a>
       <!-- <a href="https://www.youtube.com/shorts/CFmHsWB_Sus" class="btn-accent"><i class="fab fa-github"></i> Demo</a> -->
     </div>
   </div>
@@ -168,7 +170,8 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
     <div class="venue">TCSVT2022</div>
     <div class="links">
       <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
-      <a href="https://arxiv.org/abs/2201.09168"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://arxiv.org/abs/2201.09168" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/LiJiaBei-7/rivrl" class="btn-accent"><i class="fab fa-github"></i> Code</a>
       <!-- <a href="https://www.youtube.com/shorts/CFmHsWB_Sus" class="btn-accent"><i class="fab fa-github"></i> Demo</a> -->
     </div>
   </div>
