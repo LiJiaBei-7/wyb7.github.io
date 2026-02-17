@@ -41,9 +41,10 @@
 @import "print";
 
 // 浅粉色系主色变量
-$accent-color-1: #ffb6c1; // 浅粉
-$accent-color-2: #ffc0cb; // 粉紫
-$main-color: #a64d79;     // 深粉（标题、作者文字）
+// 极浅粉色系变量
+$accent-color-1: #fff0f3; // 极浅樱花粉
+$accent-color-2: #ffe4e8; // 奶油粉
+$main-color: #8c5a72;     // 降低了饱和度的深粉（用于文字，保证清晰度）
 
 .paper-box {
     display: flex;
@@ -135,7 +136,7 @@ h1:before, .anchor:before {
   width: 240px;
   min-width: 240px;
   overflow: hidden;
-  background: linear-gradient(135deg, #ffe6f0 0%, #ffd6e8 100%);
+  background: linear-gradient(135deg, #fff5f7 0%, #ffebf0 100%);
   display: flex;
   align-items: center;
   justify-content: center;
