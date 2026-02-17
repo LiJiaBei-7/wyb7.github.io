@@ -271,7 +271,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 # 🎖 Honors and Scholarships {#honors-and-scholarships}
 - **National Scholarship (PhD)**, 2025
 - **National Scholarship**, 2022 
-- **Yidong**, 2024
+- **Yidong Scholarship**, 2024
 - **Bronze Award of China International College Student Innovation Competition**, 2023
 - **Outstanding Graduates in Zhejiang Province**, 2023
 - **Gold Award of the 18th "Challenge Cup" Industrial and Commercial Bank of China College Students Extracurricular Academic Science and Technology Works Competition in Zhejiang Provinc**, 2023
