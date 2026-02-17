@@ -119,6 +119,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 
 # Publications  {#publications}
 - Reading-strategy inspired visual representation learning for text-to-video retrieval, TCSVT 2022
+
   J Dong, **Y Wang**, X Chen, X Qu, X Li, Y He, X Wang  
 
 - Progressive localization networks for language-based moment localization, ACM MM 2023  
