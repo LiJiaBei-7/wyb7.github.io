@@ -270,7 +270,8 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 
 # 🎖 Honors and Scholarships {#honors-and-scholarships}
 - **National Scholarship (PhD)**, 2025  
-- **Yidong PhD)**, 2024  
+- **Yidong (PhD)**, 2024
+- **National Scholarship (Master)**, 2022  
 
 # Services {#services}
 Reviewer for CVPR, ICCV, ICML, ECCV, ICLR, NIPS, ACM MM, AAAI, TIP, TMM, PR, etc.
