@@ -29,12 +29,12 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025.
 - *2025.03*: &nbsp;🎉🎉 Two paper is accepted by CVPR 2025.
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025.
+- *2024.10*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2024.
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by NIPS 2025.
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2024.
-- *2024.03*: &nbsp;🎉🎉 One paper is accepted by TIP.
+- *2024.02*: &nbsp;🎉🎉 One paper is accepted by TIP.
 - *2023.10*: &nbsp;🎉🎉 One paper is accepted by AAAI 2024.
-- *2022.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2022.
-- *2022.06*: &nbsp;🎉🎉 One paper is accepted by TCSVT.
+- *2022.10*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2022.
+- *2022.10*: &nbsp;🎉🎉 One paper is accepted by TCSVT.
 
 
 
