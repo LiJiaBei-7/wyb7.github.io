@@ -50,7 +50,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
     <div class="authors">
       <strong>Y Wang</strong>, Z Tian, Q Guo, Z Qin, S Zhou, M Yang, L Wang
     </div>
-    <div class="venue">NIPS24</div>
+    <div class="venue">NIPS2024</div>
     <div class="links">
       <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
       <a href="https://arxiv.org/abs/2412.19155" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
@@ -69,7 +69,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
     <div class="authors">
       <strong>Y Wang</strong>, Z Tian, Z Qin, S Zhou, L Wang
     </div>
-    <div class="venue">AAAI25</div>
+    <div class="venue">AAAI2025</div>
     <div class="links">
       <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
       <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32866/35021" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
