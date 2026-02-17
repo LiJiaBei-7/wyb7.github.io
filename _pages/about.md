@@ -118,8 +118,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 
 
 # Publications  {#publications}
-- Reading-strategy inspired visual representation learning for text-to-video retrieval, TCSVT 2022
-
+- Reading-strategy inspired visual representation learning for text-to-video retrieval, TCSVT 2022  
   J Dong, **Y Wang**, X Chen, X Qu, X Li, Y He, X Wang  
 
 - Progressive localization networks for language-based moment localization, ACM MM 2023  
@@ -141,7 +140,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
   **Y Wang**, S Wang, H Luo, J Dong, F Wang, M Han, X Wang, M Wang  
 
 
-- FeatInter: exploring fine-grained object features for video-text retrieval, Neurocomputing 2022 
+- FeatInter: exploring fine-grained object features for video-text retrieval, Neurocomputing 2022   
   B Liu, Q Zheng, **Y Wang**, M Zhang, J Dong, X Wang  
 
 
@@ -149,40 +148,40 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
   X Wu, H Sun, **Y Wang**, J Nie, J Zhang, Y Wang, J Xue, L He  
 
 
-- Diversifying query: Region-guided transformer for temporal sentence grounding, AAAI 2025
+- Diversifying query: Region-guided transformer for temporal sentence grounding, AAAI 2025    
   X Sun, L Shi, L Wang, S Zhou, K Xia, **Y Wang**, G Hua  
 
 
-- Cross-lingual cross-modal retrieval with noise-robust fine-tuning, IEEE TKDE 2024 
+- Cross-lingual cross-modal retrieval with noise-robust fine-tuning, IEEE TKDE 2024   
   R Cai, J Dong, T Liang, Y Liang, **Y Wang**, X Yang, X Wang, M Wang  
 
 
-- Versatile multimodal controls for expressive talking human animation, ACM MM 2025  
+- Versatile multimodal controls for expressive talking human animation, ACM MM 2025    
   Z Qin, R Zheng, **Y Wang**, T Li, Z Zhu, S Zhou, M Yang, L Wang  
  
-- Referencing Where to Focus: Improving Visual Grounding with Referential Query, NeurIPS 2024  
+- Referencing Where to Focus: Improving Visual Grounding with Referential Query, NeurIPS 2024    
   **Y Wang**, Z Tian, Q Guo, Z Qin, S Zhou, M Yang, L Wang
 
-- From mapping to composing: A two-stage framework for zero-shot composed image retrieval, submitted to TCSVT
+- From mapping to composing: A two-stage framework for zero-shot composed image retrieval, submitted to TCSVT    
   **Y Wang**, Z Tian, Q Guo, Z Qin, S Zhou, M Yang, L Wang
 
-- Embracing Aleatoric Uncertainty: Generating Diverse 3D Human Motion, submitted to TCSVT
+- Embracing Aleatoric Uncertainty: Generating Diverse 3D Human Motion, submitted to TCSVT    
   Z Qin, **Y Wang**, M Yang, S Zhou, M Yang, L Wang, 2025
 
-- Moment Quantization for Video Temporal Grounding, ICCV 2025  
+- Moment Quantization for Video Temporal Grounding, ICCV 2025      
   X Sun, L Wang, S Zhou, L Shi, K Xia, M Liu, **Y Wang**, G Hua
 
-- Towards precise embodied dialogue localization via causality guided diffusion, CVPR 2025  
+- Towards precise embodied dialogue localization via causality guided diffusion, CVPR 2025      
   H Wang, L Wang, S Zhou, J Tian, Z Qin, **Y Wang**, G Hua, W Tang  
 
 
-- RefDetector: A Simple yet Effective Matching-based Method for Referring Expression Comprehension, AAAI 2025  
+- RefDetector: A Simple yet Effective Matching-based Method for Referring Expression Comprehension, AAAI 2025      
   **Y Wang**, Z Tian, Z Qin, S Zhou, L Wang
 
-- HumanSense: From Multimodal Perception to Empathetic Context-Aware Responses through Reasoning MLLMs, AAAI 2026
+- HumanSense: From Multimodal Perception to Empathetic Context-Aware Responses through Reasoning MLLMs, AAAI 2026    
   Z Qin, R Zheng, **Y Wang**, T Li, Y Yuan, J Chen, L Wang
 
-- RSRNav: Reasoning Spatial Relationship for Image-Goal Navigation, submitted to TCSVT
+- RSRNav: Reasoning Spatial Relationship for Image-Goal Navigation, submitted to TCSVT    
   Z Qin, L Wang, **Y Wang**, S Zhou, G Hua, W Tang
 
 
