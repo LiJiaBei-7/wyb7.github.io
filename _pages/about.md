@@ -27,6 +27,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 # 🔥 News {#news}
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026.
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025.
+- *2025.05*: &nbsp;🎉🎉 Two paper is accepted by ICCV 2025.
 - *2025.03*: &nbsp;🎉🎉 Two paper is accepted by CVPR 2025.
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025.
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2024.
