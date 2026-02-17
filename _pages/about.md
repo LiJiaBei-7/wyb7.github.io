@@ -269,7 +269,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 
 
 # 🎖 Honors and Scholarships {#honors-and-scholarships}
-- **National Scholarship (PhD)**, 2025
+- **National Scholarship**, 2025
 - **National Scholarship**, 2022 
 - **Yidong Scholarship**, 2024
 - **Bronze Award of China International College Student Innovation Competition**, 2023
