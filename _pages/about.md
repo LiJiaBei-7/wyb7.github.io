@@ -155,6 +155,44 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 </div>
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <!-- <div class="badge pulse-accent">Visual Grounding</div> -->
+    <img src='images/tcsvt2022.png' alt="SAMPO" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Reading-strategy inspired visual representation learning for text-to-video retrieval</h3>
+    <div class="authors">
+      J Dong, <strong>Y Wang</strong>, X Chen, X Qu, X Li, Y He, X Wang
+    </div>
+    <div class="venue">TCSVT2022</div>
+    <div class="links">
+      <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
+      <a href="https://arxiv.org/abs/2201.09168"><i class="fas fa-file-alt"></i> Paper</a>
+      <!-- <a href="https://www.youtube.com/shorts/CFmHsWB_Sus" class="btn-accent"><i class="fab fa-github"></i> Demo</a> -->
+    </div>
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <!-- <div class="badge pulse-accent">Visual Grounding</div> -->
+    <img src='images/arxiv2025.png' alt="SAMPO" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>From mapping to composing: A two-stage framework for zero-shot composed image retrieval</h3>
+    <div class="authors">
+      <strong>Y Wang</strong>, Z Tian, Q Guo, Z Qin, S Zhou, M Yang, L Wang
+    </div>
+    <div class="venue">Arxiv2025</div>
+    <div class="links">
+      <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
+      <a href="https://arxiv.org/abs/2504.17990"><i class="fas fa-file-alt"></i> Paper</a>
+      <!-- <a href="https://www.youtube.com/shorts/CFmHsWB_Sus" class="btn-accent"><i class="fab fa-github"></i> Demo</a> -->
+    </div>
+  </div>
+</div>
+
 # Publications  {#publications}
 - Reading-strategy inspired visual representation learning for text-to-video retrieval, TCSVT 2022  
   J Dong, **Y Wang**, X Chen, X Qu, X Li, Y He, X Wang  
