@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zheng Qin"
-description              : "Xi'an Jiaotong University  Harbin Institute of Technology  University of Trento"
-repository               : "qinzheng2000/qinzheng.github.io"
+title                    : "Yabing Wang"
+description              : "XJTU ｜ UniTrento"
+repository               : "LiJiaBei-7/wyb7.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zheng Qin"
+  name             : "Yabing Wang"
   avatar           : "images/qinzheng.png"
   bio              : "XJTU Ph.D. student"
   location         : "Trento, Italy"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=sPQqpXsAAAAJ&hl=en&oi=sra"
-  email            : "qinzheng@stu.xjtu.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=3WVFdMUAAAAJ&hl=en&oi=ao"
+  email            : "wyb7wyb7@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/qinzheng2000"
+  github           : "https://github.com/LiJiaBei-7"
   google_plus      :
   keybase          :
   instagram        :
