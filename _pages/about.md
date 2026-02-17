@@ -232,16 +232,11 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 
 # 🎖 Honors and Scholarships {#honors-and-scholarships}
 - **National Scholarship (PhD)**, 2025  
-- **Weichai Power Scholarship (PhD)**, 2025  
-- **Outstanding Graduate Student (PhD)**, 2023, 2024  
-- **First-Class Freshman Scholarship**, 2021  
-- **Outstanding Graduate, Harbin Institute of Technology**, 2021  
-- **First-Class Academic Scholarship**, 2018, 2019, 2020
+- **Yidong PhD)**, 2024  
+
 
 # 💬 Invited Talks {#invited-talks}
-- *2024.07*, Invited to present the paper GeneralTrack at the “Summer of the Institute of Human–Computer Interaction, XJTU”
-- *2023.07*, Invited to present the paper MotionTrack at the “Summer of the Institute of Human–Computer Interaction, XJTU”
-- *2023.06*, Invited to present the paper MotionTrack at the CVPR 2023 paper-sharing session hosted by Microsoft Research Asia (MSRA Asia).
+- *2024.07*, Invited to present the paper at the “Summer of the Institute of Human–Computer Interaction, XJTU”
 
 # Services {#services}
 Reviewer for CVPR, ICCV, ICML, ECCV, ICLR, NIPS, ACM MM, AAAI, TIP, TMM, PR, etc.
