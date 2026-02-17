@@ -195,14 +195,19 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 
 # Publications  {#publications}
 - Reading-strategy inspired visual representation learning for text-to-video retrieval, TCSVT 2022  
-  J Dong, **Y Wang**, X Chen, X Qu, X Li, Y He, X Wang  
-
-- Progressive localization networks for language-based moment localization, ACM MM 2023  
-  Q Zheng, J Dong, X Qu, X Yang, **Y Wang**, P Zhou, B Liu, X Wang  
-
-
+  J Dong^#, **Y Wang**^#, X Chen, X Qu, X Li, Y He, X Wang
+  
+  
 - Cross-lingual cross-modal retrieval with noise-robust learning, ACM MM 2022  
-  **Y Wang**, J Dong, T Liang, M Zhang, R Cai, X Wang  
+  **Y Wang**, J Dong, T Liang, M Zhang, R Cai, X Wang
+  
+
+- FeatInter: exploring fine-grained object features for video-text retrieval, Neurocomputing 2022   
+  B Liu, Q Zheng, **Y Wang**, M Zhang, J Dong, X Wang  
+
+
+- Progressive localization networks for language-based moment localization, ACM TOMM 2023  
+  Q Zheng, J Dong, X Qu, X Yang, **Y Wang**, P Zhou, B Liu, X Wang  
 
 
 - Multimodal llm enhanced cross-lingual cross-modal retrieval, ACM MM 2024  
@@ -211,13 +216,14 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 
 - CL2CM: Improving Cross-Lingual Cross-Modal Retrieval via Cross-Lingual Knowledge Transfer, AAAI 2024  
   **Y Wang**, F Wang, J Dong, H Luo
+  
 
 - Dual-view curricular optimal transport for cross-lingual cross-modal retrieval, TIP 2024  
-  **Y Wang**, S Wang, H Luo, J Dong, F Wang, M Han, X Wang, M Wang  
+  **Y Wang**, S Wang, H Luo, J Dong, F Wang, M Han, X Wang, M Wang
+  
 
-
-- FeatInter: exploring fine-grained object features for video-text retrieval, Neurocomputing 2022   
-  B Liu, Q Zheng, **Y Wang**, M Zhang, J Dong, X Wang  
+- Referencing Where to Focus: Improving Visual Grounding with Referential Query, NeurIPS 2024    
+  **Y Wang**, Z Tian, Q Guo, Z Qin, S Zhou, M Yang, L Wang
 
 
 - Avf-mae++: Scaling affective video facial masked autoencoders via efficient audio-visual self-supervised learning, CVPR 2025  
@@ -235,8 +241,6 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 - Versatile multimodal controls for expressive talking human animation, ACM MM 2025    
   Z Qin, R Zheng, **Y Wang**, T Li, Z Zhu, S Zhou, M Yang, L Wang  
  
-- Referencing Where to Focus: Improving Visual Grounding with Referential Query, NeurIPS 2024    
-  **Y Wang**, Z Tian, Q Guo, Z Qin, S Zhou, M Yang, L Wang
 
 - From mapping to composing: A two-stage framework for zero-shot composed image retrieval, submitted to TCSVT    
   **Y Wang**, Z Tian, Q Guo, Z Qin, S Zhou, M Yang, L Wang
