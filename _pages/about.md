@@ -48,7 +48,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
   <div class='paper-box-text'>
     <h3>Referencing Where to Focus: Improving Visual Grounding with Referential Query</h3>
     <div class="authors">
-      <strong>Yabing Wang</strong>, Zhuotao Tian, Qingpei Guo, Zheng Qin, Sanping Zhou, Ming Yang, Le Wang
+      <strong>Y Wang</strong>, Z Tian, Q Guo, Z Qin, S Zhou, M Yang, L Wang
     </div>
     <div class="venue">NIPS24</div>
     <div class="links">
@@ -67,12 +67,31 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
   <div class='paper-box-text'>
     <h3>RefDetector: A Simple yet Effective Matching-based Method for Referring Expression Comprehension</h3>
     <div class="authors">
-      <strong>Yabing Wang</strong>, Zhuotao Tian, Zheng Qin, Sanping Zhou, Le Wang
+      <strong>Y Wang</strong>, Z Tian, Z Qin, S Zhou, L Wang
     </div>
     <div class="venue">AAAI25</div>
     <div class="links">
       <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
       <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32866/35021" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <!-- <a href="https://www.youtube.com/shorts/CFmHsWB_Sus" class="btn-accent"><i class="fab fa-github"></i> Demo</a> -->
+    </div>
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">Visual Grounding</div>
+    <img src='images/aaai24.png' alt="SAMPO" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>CL2CM: Improving Cross-Lingual Cross-Modal Retrieval via Cross-Lingual Knowledge Transfer</h3>
+    <div class="authors">
+      <strong>Y Wang</strong>, F Wang, J Dong, H Luo
+    </div>
+    <div class="venue">AAAI25</div>
+    <div class="links">
+      <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
+      <a href="https://arxiv.org/abs/2312.08984" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       <!-- <a href="https://www.youtube.com/shorts/CFmHsWB_Sus" class="btn-accent"><i class="fab fa-github"></i> Demo</a> -->
     </div>
   </div>
