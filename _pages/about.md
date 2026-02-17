@@ -272,6 +272,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 
 # 💻 Internships {#internships}
 - *2024.05 - 2025.07*, Ant Group, Bailing Large Model Team， Research Intern
+- *2024.10 - 2025.08*, Alibaba DAMO Academy， Research Intern
 
 
 # 🎖 Honors and Scholarships {#honors-and-scholarships}
