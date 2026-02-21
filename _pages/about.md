@@ -205,7 +205,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 - Spatial Matters: Position-Guided 3D Referring Expression Segmentation, CVPR 2026        
   **Y Wang**, Z Tian, L Wang, Z Qin, S Zhou
 
-- From mapping to composing: A two-stage framework for zero-shot composed image retrieval, arxiv 2025    
+- From mapping to composing: A two-stage framework for zero-shot composed image retrieval, Arxiv 2025    
   **Y Wang**, Z Tian, Q Guo, Z Qin, S Zhou, M Yang, L Wang
 
 - RefDetector: A Simple yet Effective Matching-based Method for Referring Expression Comprehension, AAAI 2025      
@@ -235,6 +235,13 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 - HumanSense: From Multimodal Perception to Empathetic Context-Aware Responses through Reasoning MLLMs, AAAI 2026    
   Z Qin, R Zheng, **Y Wang**, T Li, Y Yuan, J Chen, L Wang
 
+- Embracing Aleatoric Uncertainty: Generating Diverse 3D Human Motion, Arxiv 2025   
+  Z Qin#, **Y Wang**#, M Yang, S Zhou, M Yang, L Wang, 2025
+
+- RSRNav: Reasoning Spatial Relationship for Image-Goal Navigation, Arxiv 2025    
+  Z Qin, L Wang, **Y Wang**, S Zhou, G Hua, W Tang
+
+
 - Moment Quantization for Video Temporal Grounding, ICCV 2025      
   X Sun, L Wang, S Zhou, L Shi, K Xia, M Liu, **Y Wang**, G Hua
 
@@ -258,12 +265,6 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 
 - Progressive localization networks for language-based moment localization, ACM TOMM 2023  
   Q Zheng, J Dong, X Qu, X Yang, **Y Wang**, P Zhou, B Liu, X Wang  
-
-- Embracing Aleatoric Uncertainty: Generating Diverse 3D Human Motion, submitted to TCSVT    
-  Z Qin, **Y Wang**, M Yang, S Zhou, M Yang, L Wang, 2025
-
-- RSRNav: Reasoning Spatial Relationship for Image-Goal Navigation, submitted to TCSVT    
-  Z Qin, L Wang, **Y Wang**, S Zhou, G Hua, W Tang
 
 
 # 📖 Educations {#educations}
