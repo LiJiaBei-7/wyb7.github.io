@@ -201,38 +201,39 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 </div>
 
 # Publications  {#publications}
-- Reading-strategy inspired visual representation learning for text-to-video retrieval, TCSVT 2022  
-  J Dong^#, **Y Wang**^#, X Chen, X Qu, X Li, Y He, X Wang
-  
-  
-- Cross-lingual cross-modal retrieval with noise-robust learning, ACM MM 2022  
-  **Y Wang**, J Dong, T Liang, M Zhang, R Cai, X Wang
 
+- Spatial Matters: Position-Guided 3D Referring Expression Segmentation, CVPR2026        
+  **Y Wang**, Z Tian, L Wang, Z Qin, S Zhou
 
-- Multimodal llm enhanced cross-lingual cross-modal retrieval, ACM MM 2024  
-  **Y Wang**, L Wang, Q Zhou, Z Wang, H Li, G Hua, W Tang  
-
-
-- CL2CM: Improving Cross-Lingual Cross-Modal Retrieval via Cross-Lingual Knowledge Transfer, AAAI 2024  
-  **Y Wang**, F Wang, J Dong, H Luo
-  
-
-- Dual-view curricular optimal transport for cross-lingual cross-modal retrieval, TIP 2024  
-  **Y Wang**, S Wang, H Luo, J Dong, F Wang, M Han, X Wang, M Wang
-  
-
-- Referencing Where to Focus: Improving Visual Grounding with Referential Query, NeurIPS 2024    
+- From mapping to composing: A two-stage framework for zero-shot composed image retrieval, arxiv 2025    
   **Y Wang**, Z Tian, Q Guo, Z Qin, S Zhou, M Yang, L Wang
 
 - RefDetector: A Simple yet Effective Matching-based Method for Referring Expression Comprehension, AAAI 2025      
   **Y Wang**, Z Tian, Z Qin, S Zhou, L Wang
 
-- From mapping to composing: A two-stage framework for zero-shot composed image retrieval, arxiv 2025    
+- Referencing Where to Focus: Improving Visual Grounding with Referential Query, NeurIPS 2024    
   **Y Wang**, Z Tian, Q Guo, Z Qin, S Zhou, M Yang, L Wang
 
-- Spatial Matters: Position-Guided 3D Referring Expression Segmentation, CVPR2026        
-  **Y Wang**, Z Tian, L Wang, Z Qin, S Zhou
+- CL2CM: Improving Cross-Lingual Cross-Modal Retrieval via Cross-Lingual Knowledge Transfer, AAAI 2024  
+  **Y Wang**, F Wang, J Dong, H Luo
 
+  
+- Dual-view curricular optimal transport for cross-lingual cross-modal retrieval, TIP 2024  
+  **Y Wang**, S Wang, H Luo, J Dong, F Wang, M Han, X Wang, M Wang
+  
+  
+- Multimodal llm enhanced cross-lingual cross-modal retrieval, ACM MM 2024  
+  **Y Wang**, L Wang, Q Zhou, Z Wang, H Li, G Hua, W Tang  
+
+- Reading-strategy inspired visual representation learning for text-to-video retrieval, TCSVT 2022  
+  J Dong#, **Y Wang**#, X Chen, X Qu, X Li, Y He, X Wang
+  
+- Cross-lingual cross-modal retrieval with noise-robust learning, ACM MM 2022  
+  **Y Wang**, J Dong, T Liang, M Zhang, R Cai, X Wang
+
+  
+- HumanSense: From Multimodal Perception to Empathetic Context-Aware Responses through Reasoning MLLMs, AAAI 2026    
+  Z Qin, R Zheng, **Y Wang**, T Li, Y Yuan, J Chen, L Wang
 
 - Moment Quantization for Video Temporal Grounding, ICCV 2025      
   X Sun, L Wang, S Zhou, L Shi, K Xia, M Liu, **Y Wang**, G Hua
@@ -240,13 +241,8 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 - Towards precise embodied dialogue localization via causality guided diffusion, CVPR 2025      
   H Wang, L Wang, S Zhou, J Tian, Z Qin, **Y Wang**, G Hua, W Tang  
 
-- HumanSense: From Multimodal Perception to Empathetic Context-Aware Responses through Reasoning MLLMs, AAAI 2026    
-  Z Qin, R Zheng, **Y Wang**, T Li, Y Yuan, J Chen, L Wang
-
-
 - Avf-mae++: Scaling affective video facial masked autoencoders via efficient audio-visual self-supervised learning, CVPR 2025  
   X Wu, H Sun, **Y Wang**, J Nie, J Zhang, Y Wang, J Xue, L He  
-
 
 - Diversifying query: Region-guided transformer for temporal sentence grounding, AAAI 2025    
   X Sun, L Shi, L Wang, S Zhou, K Xia, **Y Wang**, G Hua  
