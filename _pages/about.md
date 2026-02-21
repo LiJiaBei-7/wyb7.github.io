@@ -230,7 +230,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 - From mapping to composing: A two-stage framework for zero-shot composed image retrieval, arxiv 2025    
   **Y Wang**, Z Tian, Q Guo, Z Qin, S Zhou, M Yang, L Wang
 
-- Spatial Matters: Position-Guided 3D Referring Expression Segmentation, CVPR2026
+- Spatial Matters: Position-Guided 3D Referring Expression Segmentation, CVPR2026        
   **Y Wang**, Z Tian, L Wang, Z Qin, S Zhou
 
 
