@@ -231,7 +231,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
   **Y Wang**, Z Tian, Q Guo, Z Qin, S Zhou, M Yang, L Wang
 
 - Spatial Matters: Position-Guided 3D Referring Expression Segmentation, CVPR2026
-   **Y Wang**, Z Tian, L Wang, Z Qin, S Zhou
+  **Y Wang**, Z Tian, L Wang, Z Qin, S Zhou
 
 
 - Moment Quantization for Video Temporal Grounding, ICCV 2025      
