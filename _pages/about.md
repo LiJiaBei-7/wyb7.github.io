@@ -224,9 +224,6 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
   
 - Multimodal llm enhanced cross-lingual cross-modal retrieval, ACM MM 2024  
   **Y Wang**, L Wang, Q Zhou, Z Wang, H Li, G Hua, W Tang  
-
-- Reading-strategy inspired visual representation learning for text-to-video retrieval, TCSVT 2022  
-  J Dong#, **Y Wang**#, X Chen, X Qu, X Li, Y He, X Wang
   
 - Cross-lingual cross-modal retrieval with noise-robust learning, ACM MM 2022  
   **Y Wang**, J Dong, T Liang, M Zhang, R Cai, X Wang
@@ -236,7 +233,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
   Z Qin, R Zheng, **Y Wang**, T Li, Y Yuan, J Chen, L Wang
 
 - Embracing Aleatoric Uncertainty: Generating Diverse 3D Human Motion, Arxiv 2025   
-  Z Qin#, **Y Wang**#, M Yang, S Zhou, M Yang, L Wang, 2025
+  Z Qin#, **Y Wang**#, M Yang, S Zhou, M Yang, L Wang
 
 - RSRNav: Reasoning Spatial Relationship for Image-Goal Navigation, Arxiv 2025    
   Z Qin, L Wang, **Y Wang**, S Zhou, G Hua, W Tang
@@ -264,7 +261,10 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
   B Liu, Q Zheng, **Y Wang**, M Zhang, J Dong, X Wang  
 
 - Progressive localization networks for language-based moment localization, ACM TOMM 2023  
-  Q Zheng, J Dong, X Qu, X Yang, **Y Wang**, P Zhou, B Liu, X Wang  
+  Q Zheng, J Dong, X Qu, X Yang, **Y Wang**, P Zhou, B Liu, X Wang
+
+- Reading-strategy inspired visual representation learning for text-to-video retrieval, TCSVT 2022  
+  J Dong#, **Y Wang**#, X Chen, X Qu, X Li, Y He, X Wang
 
 
 # 📖 Educations {#educations}
