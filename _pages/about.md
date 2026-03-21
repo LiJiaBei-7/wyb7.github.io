@@ -247,7 +247,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
   H Wang, L Wang, S Zhou, J Tian, Z Qin, **Y Wang**, G Hua, W Tang  
 
 - Avf-mae++: Scaling affective video facial masked autoencoders via efficient audio-visual self-supervised learning, CVPR 2025  
-  X Wu, H Sun, **Y Wang**, J Nie, J Zhang, Y Wang, J Xue, L He  
+  X Wu, H Sun, Y Wang, J Nie, J Zhang, **Y Wang**, J Xue, L He  
 
 - Diversifying query: Region-guided transformer for temporal sentence grounding, AAAI 2025    
   X Sun, L Shi, L Wang, S Zhou, K Xia, **Y Wang**, G Hua
