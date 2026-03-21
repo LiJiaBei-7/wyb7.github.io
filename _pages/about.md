@@ -29,7 +29,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026.
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025.
-- *2025.05*: &nbsp;🎉🎉 Two paper is accepted by ICCV 2025.
+- *2025.05*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.
 - *2025.03*: &nbsp;🎉🎉 Two paper is accepted by CVPR 2025.
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025.
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2024.
@@ -250,13 +250,13 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
   X Wu, H Sun, **Y Wang**, J Nie, J Zhang, Y Wang, J Xue, L He  
 
 - Diversifying query: Region-guided transformer for temporal sentence grounding, AAAI 2025    
-  X Sun, L Shi, L Wang, S Zhou, K Xia, **Y Wang**, G Hua  
+  X Sun, L Shi, L Wang, S Zhou, K Xia, **Y Wang**, G Hua
+  
+- Versatile multimodal controls for expressive talking human animation, ACM MM 2025    
+  Z Qin, R Zheng, **Y Wang**, T Li, Z Zhu, S Zhou, M Yang, L Wang  
 
 - Cross-lingual cross-modal retrieval with noise-robust fine-tuning, IEEE TKDE 2024   
   R Cai, J Dong, T Liang, Y Liang, **Y Wang**, X Yang, X Wang, M Wang  
-
-- Versatile multimodal controls for expressive talking human animation, ACM MM 2025    
-  Z Qin, R Zheng, **Y Wang**, T Li, Z Zhu, S Zhou, M Yang, L Wang  
 
 - FeatInter: exploring fine-grained object features for video-text retrieval, Neurocomputing 2022   
   B Liu, Q Zheng, **Y Wang**, M Zhang, J Dong, X Wang  
