@@ -25,6 +25,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 
 
 # 🔥 News {#news}
+- *2026.03*: &nbsp;🎉🎉 One paper is accepted by TCSVT.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026.
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025.
@@ -235,7 +236,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 - Embracing Aleatoric Uncertainty: Generating Diverse 3D Human Motion, Arxiv 2025   
   Z Qin#, **Y Wang**#, M Yang, S Zhou, M Yang, L Wang
 
-- RSRNav: Reasoning Spatial Relationship for Image-Goal Navigation, Arxiv 2025    
+- RSRNav: Reasoning Spatial Relationship for Image-Goal Navigation, TCSVT 2026   
   Z Qin, L Wang, **Y Wang**, S Zhou, G Hua, W Tang
 
 
