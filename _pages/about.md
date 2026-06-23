@@ -25,6 +25,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 
 
 # 🔥 News {#news}
+- *2026.06*: &nbsp;🎉🎉 One paper is accepted by TCSVT.
 - *2026.03*: &nbsp;🎉🎉 One paper is accepted by TCSVT.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026.
@@ -191,7 +192,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
     <div class="authors">
       <strong>Y Wang</strong>, Z Tian, Q Guo, Z Qin, S Zhou, M Yang, L Wang
     </div>
-    <div class="venue">Arxiv2025</div>
+    <div class="venue">TCSVT2026</div>
     <div class="links">
       <!-- <a href="https://www.youtube.com/watch?v=HaS9cM75J7Y" class="btn-accent">Video</a> -->
       <a href="https://arxiv.org/abs/2504.17990"><i class="fas fa-file-alt"></i> Paper</a>
@@ -206,7 +207,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 - Spatial Matters: Position-Guided 3D Referring Expression Segmentation, CVPR 2026        
   **Y Wang**, Z Tian, L Wang, Z Qin, S Zhou
 
-- From mapping to composing: A two-stage framework for zero-shot composed image retrieval, Arxiv 2025    
+- From mapping to composing: A two-stage framework for zero-shot composed image retrieval, TCSVT2026 
   **Y Wang**, Z Tian, Q Guo, Z Qin, S Zhou, M Yang, L Wang
 
 - RefDetector: A Simple yet Effective Matching-based Method for Referring Expression Comprehension, AAAI 2025      
