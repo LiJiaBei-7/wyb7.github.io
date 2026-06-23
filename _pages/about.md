@@ -207,7 +207,7 @@ I am currently a visiting Ph.D. student with the Multimedia and Human Understand
 - Spatial Matters: Position-Guided 3D Referring Expression Segmentation, CVPR 2026        
   **Y Wang**, Z Tian, L Wang, Z Qin, S Zhou
 
-- From mapping to composing: A two-stage framework for zero-shot composed image retrieval, TCSVT2026 
+- From mapping to composing: A two-stage framework for zero-shot composed image retrieval, TCSVT2026   
   **Y Wang**, Z Tian, Q Guo, Z Qin, S Zhou, M Yang, L Wang
 
 - RefDetector: A Simple yet Effective Matching-based Method for Referring Expression Comprehension, AAAI 2025      
